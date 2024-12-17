@@ -1,7 +1,6 @@
 ## Panduan instalasi
 ```bash
   $ git clone https://github.com/PrasastiDani/tes-rumahweb.git
-  $ cd rumahweb/
 ```
 ## Penjelasan Struktur Kode
 - index.html : digunakan untuk menampilkan inteface halaman
